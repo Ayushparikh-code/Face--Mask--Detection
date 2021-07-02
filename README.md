@@ -1,8 +1,30 @@
 <h1 align="center">Face Mask Detection</h1>
 
 <div align= "center"><img src="https://github.com/Ayushparikh-code/Face--Mask--Detection/blob/main/download.png?raw=true" width="200" height="200"/>
-  <h4>Face Mask Detection system built with OpenCV, Keras/TensorFlow concepts in order to detect face masks in real-time video streams.</h4>
-</div>
+ <h4>Face Mask Detection system built with:--</h4>
+
+
+<a href="https://github.com/topics/python"><img alt="PYTHON" src="https://img.shields.io/badge/python%20-%23E34F26.svg?&style=for-the-badge&logo=python&logoColor=white"/></a>
+<a href="https://github.com/topics/OpenCV"><img alt="OPENCV" src="https://img.shields.io/badge/OpenCV%20-%23E34F26.svg?&style=for-the-badge&logo=OpenCV&logoColor=white"/></a>
+<a href="https://github.com/topics/tensorFlow"><img alt="TensorFlow" src="https://img.shields.io/badge/tensorFlow%20-%23E34F26.svg?&style=for-the-badge&logo=tensorFlow&logoColor=white"/></a>
+<a href="https://github.com/topics/Keras"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23E34F26.svg?&style=for-the-badge&logo=Keras&logoColor=white"/></a>
+ </div>
+
+<a href="https://github.com/Ayushparikh-code/Face--Mask--Detection"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
+<a href="https://github.com/Ayushparikh-code/Face--Mask--Detection"><img src="https://img.shields.io/badge/Built%20by-developers%20%3C%2F%3E-0059b3"></a>
+<a href="https://github.com/Ayushparikh-code/Face--Mask--Detection"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=yellow"></a>
+<a href="https://github.com/Ayushparikh-code"><img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?v=103"></a>
+<a href="https://github.com/Ayushparikh-code/Face--Mask--Detection"><img src="https://img.shields.io/badge/PR's%3F-Welcomed-brightgreen.svg?v=103"></a>
+
+<a href="https://github.com/Ayushparikh-code/Face--Mask--Detection/watchers"><img src="https://img.shields.io/github/watchers/Ayushparikh-code/Face--Mask--Detection?style=flat"></a> 
+<a href="https://github.com/Ayushparikh-code/Face--Mask--Detection/graphs/contributors"><img src="https://img.shields.io/github/contributors/Ayushparikh-code/Face--Mask--Detection?color=brightgreen"></a>
+<a href="https://github.com/Ayushparikh-code/Face--Mask--Detection/stargazers"><img src="https://img.shields.io/github/stars/Ayushparikh-code/Face--Mask--Detection?color=0059b3"></a>
+<a href="https://github.com/Ayushparikh-code/Face--Mask--Detection/network/members"><img src="https://img.shields.io/github/forks/Ayushparikh-code/Face--Mask--Detection?color=yellow"></a>
+
+<a href="https://github.com/Ayushparikh-code/Face--Mask--Detection/issues"><img src="https://img.shields.io/github/issues/Ayushparikh-code/Face--Mask--Detection?color=0059b3"></a>
+<a href="https://github.com/Ayushparikh-code/Face--Mask--Detection/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/Ayushparikh-code/Face--Mask--Detection?color=yellow"></a>
+<a href="https://github.com/Ayushparikh-code/Face--Mask--Detection/pulls"><img src="https://img.shields.io/github/issues-pr/Ayushparikh-code/Face--Mask--Detection?color=brightgreen"></a>
+<a href="https://github.com/Ayushparikh-code/Face--Mask--Detection/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/Ayushparikh-code/Face--Mask--Detection?color=0059b3"></a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![demo](https://github.com/Ayushparikh-code/Face--Mask--Detection/blob/main/mask-detection-sample.jpg?raw=true)
@@ -151,9 +173,51 @@ $ python detect_mask_video.py
   <img src="https://github.com/Ayushparikh-code/Face--Mask--Detection/blob/main/face-mask-detection1.jpg?raw=true" width=400 height=340>
   <img src="https://github.com/Ayushparikh-code/Face--Mask--Detection/blob/main/result3.jpg?raw=true" height=340/>
 
+<hr>
+
+## Our Project Admins 🤓 
+
+<br>
+<table>
+<tr>
+<td align="center"><a href="https://github.com/Ayushparikh-code"><img src="https://avatars.githubusercontent.com/u/60268067?v=4" width=150px height=150px /></a></br> <h4 style="color:white;">Ayush Parikh</h4>
+
+
+</tr>
+</table>
+<br>  
+
+## 📌 Opensource Programs
+
+### This project is a part of following Open Source Program
+<br>
+
+<table style="width:80%;background-color:white;border-radius:30px;">
+    <tr>
+  <td>
+<center>
+  <a href="https://letsgrowmore.in/projects/"><img src="https://letsgrowmore.in/wp-content/uploads/2021/05/cropped-growmore-removebg-preview.png"></img></a>
+  </center>
+  </td>
+  </tr>
+</table>
+    <hr>
 
 
 
 
 
 Note: If you Like this project then just follow me👍 and Star✨ this repository !
+
+
+<p align="center">
+<a href="https://github.com/Ayushparikh-code/Face--Mask--Detection" title="Face--Mask--Detection Github">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    
+</a>
+</p>
+
+<hr>
+<hr>
+
+>## Happy Contribution ✨
