@@ -71,11 +71,11 @@ git merge upstream/master
 ```
 * Checkout to main branch
 ```bash
-git git checkout main
+git checkout main
 ```
 * Checkout to New branch branch
 ```bash
-git git checkout '<your_branch_name>'
+git checkout '<your_branch_name>'
 ```
 ### Levels & Points
 
