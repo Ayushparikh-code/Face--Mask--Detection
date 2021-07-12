@@ -95,7 +95,7 @@ git merge upstream/master
 ```bash
 git checkout main
 ```
-* Checkout to New branch branch
+* Checkout to New branch
 ```bash
 git checkout '<your_branch_name>'
 ```
