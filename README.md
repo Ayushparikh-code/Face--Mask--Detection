@@ -8,7 +8,8 @@
 <a href="https://github.com/topics/OpenCV"><img alt="OPENCV" src="https://img.shields.io/badge/OpenCV%20-%23E34F26.svg?&style=for-the-badge&logo=OpenCV&logoColor=white"/></a>
 <a href="https://github.com/topics/tensorFlow"><img alt="TensorFlow" src="https://img.shields.io/badge/tensorFlow%20-%23E34F26.svg?&style=for-the-badge&logo=tensorFlow&logoColor=white"/></a>
 <a href="https://github.com/topics/Keras"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23E34F26.svg?&style=for-the-badge&logo=Keras&logoColor=white"/></a>
- </div>
+</div>
+<div align="center">
 
 <a href="https://github.com/Ayushparikh-code/Face--Mask--Detection"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
 <a href="https://github.com/Ayushparikh-code/Face--Mask--Detection"><img src="https://img.shields.io/badge/Built%20by-developers%20%3C%2F%3E-0059b3"></a>
@@ -25,7 +26,8 @@
 <a href="https://github.com/Ayushparikh-code/Face--Mask--Detection/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/Ayushparikh-code/Face--Mask--Detection?color=yellow"></a>
 <a href="https://github.com/Ayushparikh-code/Face--Mask--Detection/pulls"><img src="https://img.shields.io/github/issues-pr/Ayushparikh-code/Face--Mask--Detection?color=brightgreen"></a>
 <a href="https://github.com/Ayushparikh-code/Face--Mask--Detection/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/Ayushparikh-code/Face--Mask--Detection?color=0059b3"></a>
-
+</div>
+ 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![demo](https://github.com/Ayushparikh-code/Face--Mask--Detection/blob/main/mask-detection-sample.jpg?raw=true)
 
@@ -169,10 +171,11 @@ $ python detect_mask_video.py
 ![](https://github.com/Ayushparikh-code/Face--Mask--Detection/blob/main/plot.png?raw=true)
 
 #### IMAGES
-<p align="left">
+<div align="center">
   <img src="https://github.com/Ayushparikh-code/Face--Mask--Detection/blob/main/face-mask-detection1.jpg?raw=true" width=400 height=340>
+  <br>
   <img src="https://github.com/Ayushparikh-code/Face--Mask--Detection/blob/main/result3.jpg?raw=true" height=340/>
-
+</div>
 <hr>
 
 ## Our Project Admins 🤓 
